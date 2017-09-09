@@ -1,0 +1,64 @@
+P: Andrew Albers
+
+P: Dan Altavilla
+
+P: Edwin Diaz
+
+P: Yovani Gallardo
+
+P: Ryan Garton
+
+P: Marco Gonzales
+
+P: Casey Lawrence
+
+P: Mike Leake
+
+P: Ariel Miranda
+
+P: Andrew Moore
+
+P: Emilio Pagan
+
+P: James Pazos
+
+P: Erasmo Ramirez
+
+P: Marc Rzepczynski
+
+P: Shae Simmons
+
+P: Nick Vincent
+
+C: Mike Marjama
+
+C: Carlos Ruiz
+
+C: Mike Zunino
+
+IF: Yonder Alonso
+
+IF: Gordon Beckham
+
+IF: Robinson Cano
+
+IF: Taylor Motter
+
+IF: Kyle Seager
+
+IF: Jean Segura
+
+IF: Danny Valencia
+
+OF: Jarrod Dyson
+
+OF: Ben Gamel
+
+OF: Mitch Haniger
+
+OF: Jacob Hannemann
+
+OF: Guillermo Heredia
+
+DH: Nelson Cruz
+

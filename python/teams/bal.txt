@@ -1,0 +1,62 @@
+P: Richard Bleier
+
+P: Brad Brach
+
+P: Zach Britton
+
+P: Dylan Bundy
+
+P: Miguel Castro
+
+P: Kevin Gausman
+
+P: Mychal Givens
+
+P: Donnie Hart
+
+P: Jeremy Hellickson
+
+P: Ubaldo Jimenez
+
+P: Wade Miley
+
+P: Darren O\'Day
+
+P: Richard Rodriguez
+
+P: Chris Tillman
+
+P: Jimmy Yacabonis
+
+P: Gabriel Ynoa
+
+C: Welington Castillo
+
+C: Caleb Joseph
+
+C: Chance Sisco
+
+IF: Pedro Alvarez
+
+IF: Tim Beckham
+
+IF: Chris Davis
+
+IF: Ryan Flaherty
+
+IF: Manny Machado
+
+IF: Jonathan Schoop
+
+OF: Adam Jones
+
+OF: Trey Mancini
+
+OF: Joey Rickard
+
+OF: Anthony Santander
+
+OF: Seth Smith
+
+DH: Mark Trumbo
+

@@ -1,0 +1,66 @@
+P: Chad Bell
+
+P: Matthew Boyd
+
+P: Buck Farmer
+
+P: Jeff Ferrell
+
+P: Michael Fulmer
+
+P: Shane Greene
+
+P: Blaine Hardy
+
+P: Myles Jaye
+
+P: Joe Jimenez
+
+P: Jairo Labourt
+
+P: Artie Lewicki
+
+P: Daniel Norris
+
+P: Zac Reininger
+
+P: Anibal Sanchez
+
+P: Warwick Saupold
+
+P: Daniel Stumpf
+
+P: Drew VerHagen
+
+P: Alex Wilson
+
+P: Jordan Zimmermann
+
+C: Bryan Holaday
+
+C: James McCann
+
+IF: Miguel Cabrera
+
+IF: Jeimer Candelario
+
+IF: Nicholas Castellanos
+
+IF: John Hicks
+
+IF: Jose Iglesias
+
+IF: Ian Kinsler
+
+IF: Dixon Machado
+
+IF: Efren Navarro
+
+OF: JaCoby Jones
+
+OF: Mikie Mahtook
+
+OF: Alex Presley
+
+OF: Andrew Romine
+

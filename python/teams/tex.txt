@@ -1,0 +1,62 @@
+P: Tony Barnette
+
+P: Austin Bibens-Dirkx
+
+P: Andrew Cashner
+
+P: Alex Claudio
+
+P: Jake Diekman
+
+P: Paolo Espino
+
+P: Nick Gardewine
+
+P: Miguel Gonzalez
+
+P: A.J. Griffin
+
+P: Jason Grilli
+
+P: Cole Hamels
+
+P: Jose Leclerc
+
+P: Nick Martinez
+
+P: Yohander Mendez
+
+P: Martin Perez
+
+P: Ricardo Rodriguez
+
+P: Tyson Ross
+
+C: Robinson Chirinos
+
+C: A.J. Jimenez
+
+C: Brett Nicholas
+
+IF: Elvis Andrus
+
+IF: Joey Gallo
+
+IF: Will Middlebrooks
+
+IF: Mike Napoli
+
+IF: Rougned Odor
+
+OF: Shin-Soo Choo
+
+OF: Delino DeShields
+
+OF: Carlos Gomez
+
+OF: Jared Hoying
+
+OF: Nomar Mazara
+
+OF: Drew Robinson
+

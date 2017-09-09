@@ -1,0 +1,62 @@
+P: Chad Bettis
+
+P: Tyler Chatwood
+
+P: Mike Dunn
+
+P: Carlos Estevez
+
+P: Kyle Freeland
+
+P: Jon Gray
+
+P: Jeff Hoffman
+
+P: Greg Holland
+
+P: German Marquez
+
+P: Jake McGee
+
+P: Pat Neshek
+
+P: Scott Oberg
+
+P: Adam Ottavino
+
+P: Zac Rosscup
+
+P: Chris Rusin
+
+P: Antonio Senzatela
+
+C: Jonathan Lucroy
+
+C: Tom Murphy
+
+C: Tony Wolters
+
+IF: Alexi Amarista
+
+IF: Nolan Arenado
+
+IF: DJ LeMahieu
+
+IF: Ryan McMahon
+
+IF: Mark Reynolds
+
+IF: Trevor Story
+
+IF: Pat Valaika
+
+OF: Charlie Blackmon
+
+OF: Ian Desmond
+
+OF: Carlos Gonzalez
+
+OF: Gerardo Parra
+
+OF: Mike Tauchman
+

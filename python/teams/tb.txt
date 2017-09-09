@@ -1,0 +1,60 @@
+P: Matt Andriese
+
+P: Chris Archer
+
+P: Brad Boxberger
+
+P: Steve Cishek
+
+P: Alex Cobb
+
+P: Alex Colome
+
+P: Tommy Hunter
+
+P: Dan Jennings
+
+P: Andrew Kittredge
+
+P: Jake Odorizzi
+
+P: Austin Pruitt
+
+P: Sergio Romo
+
+P: Blake Snell
+
+P: Ryne Stanek
+
+P: Chase Whitley
+
+C: Curt Casali
+
+C: Wilson Ramos
+
+C: Jesus Sucre
+
+IF: Lucas Duda
+
+IF: Danny Espinosa
+
+IF: Adeiny Hechavarria
+
+IF: Evan Longoria
+
+IF: Brad Miller
+
+IF: Logan Morrison
+
+IF: Trevor Plouffe
+
+OF: Peter Bourjos
+
+OF: Corey Dickerson
+
+OF: Kevin Kiermaier
+
+OF: Cesar Puello
+
+OF: Steven Souza Jr.
+

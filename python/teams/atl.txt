@@ -1,0 +1,62 @@
+P: Rex Brothers
+
+P: R.A. Dickey
+
+P: Mike Foltynewicz
+
+P: Sam Freeman
+
+P: Max Fried
+
+P: Luke Jackson
+
+P: Jim Johnson
+
+P: Ian Krol
+
+P: A.J. Minter
+
+P: Sean Newcomb
+
+P: Jose Ramirez
+
+P: Lucas Sims
+
+P: Julio Teheran
+
+P: Arodys Vizcaino
+
+P: Dan Winkler
+
+P: Matt Wisler
+
+C: David Freitas
+
+C: Tony Sanchez
+
+C: Kurt Suzuki
+
+IF: Matt Adams
+
+IF: Ozzie Albies
+
+IF: Freddie Freeman
+
+IF: Adonis Garcia
+
+IF: Jace Peterson
+
+IF: Rio Ruiz
+
+IF: Dansby Swanson
+
+OF: Lane Adams
+
+OF: Ender Inciarte
+
+OF: Micah Johnson
+
+OF: Matt Kemp
+
+OF: Nick Markakis
+

@@ -1,0 +1,70 @@
+P: Fernando Abad
+
+P: Matt Barnes
+
+P: Blaine Boyer
+
+P: Roenis Elias
+
+P: Doug Fister
+
+P: Heath Hembree
+
+P: Joe Kelly
+
+P: Craig Kimbrel
+
+P: Austin Maddox
+
+P: Drew Pomeranz
+
+P: Rick Porcello
+
+P: Addison Reed
+
+P: Eduardo Rodriguez
+
+P: Chris Sale
+
+P: Robby Scott
+
+P: Hector Velazquez
+
+P: Brandon Workman
+
+C: Sandy Leon
+
+C: Blake Swihart
+
+C: Christian Vazquez
+
+IF: Xander Bogaerts
+
+IF: Rafael Devers
+
+IF: Brock Holt
+
+IF: Deven Marrero
+
+IF: Mitch Moreland
+
+IF: Eduardo Nunez
+
+IF: Dustin Pedroia
+
+IF: Sam Travis
+
+OF: Andrew Benintendi
+
+OF: Mookie Betts
+
+OF: Jackie Bradley Jr.
+
+OF: Rajai Davis
+
+OF: Tzu-Wei Lin
+
+OF: Chris Young
+
+DH: Hanley Ramirez
+

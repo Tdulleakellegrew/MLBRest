@@ -1,0 +1,58 @@
+P: Michael Brady
+
+P: Santiago Casilla
+
+P: Simon Castro
+
+P: Jharel Cotton
+
+P: Daniel Coulombe
+
+P: Ryan Dull
+
+P: Daniel Gossett
+
+P: Kendall Graveman
+
+P: Chris Hatcher
+
+P: Liam Hendriks
+
+P: Sean Manaea
+
+P: Sam Moll
+
+P: Chris Smith
+
+P: Blake Treinen
+
+C: Dustin Garneau
+
+C: Bruce Maxwell
+
+C: Josh Phegley
+
+IF: Franklin Barreto
+
+IF: Matt Chapman
+
+IF: Jed Lowrie
+
+IF: Matt Olson
+
+IF: Chad Pinder
+
+IF: Marcus Semien
+
+OF: Mark Canha
+
+OF: Khris Davis
+
+OF: Matt Joyce
+
+OF: Boog Powell
+
+OF: Jake Smolinski
+
+DH: Ryon Healy
+

@@ -1,0 +1,62 @@
+P: Austin Adams
+
+P: Matt Albers
+
+P: Joe Blanton
+
+P: A.J. Cole
+
+P: Sean Doolittle
+
+P: Gio Gonzalez
+
+P: Matt Grace
+
+P: Edwin Jackson
+
+P: Shawn Kelley
+
+P: Brandon Kintzler
+
+P: Ryan Madson
+
+P: Oliver Perez
+
+P: Tanner Roark
+
+P: Enny Romero
+
+P: Max Scherzer
+
+P: Sammy Solis
+
+P: Stephen Strasburg
+
+C: Jose Lobaton
+
+C: Raudy Read
+
+C: Pedro Severino
+
+C: Matt Wieters
+
+IF: Wilmer Difo
+
+IF: Adam Lind
+
+IF: Daniel Murphy
+
+IF: Anthony Rendon
+
+IF: Trea Turner
+
+IF: Ryan Zimmerman
+
+OF: Alejandro De Aza
+
+OF: Howie Kendrick
+
+OF: Michael A. Taylor
+
+OF: Jayson Werth
+

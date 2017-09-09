@@ -1,0 +1,64 @@
+P: Jake Arrieta
+
+P: Wade Davis
+
+P: Brian Duensing
+
+P: Carl Edwards Jr.
+
+P: Justin Grimm
+
+P: Kyle Hendricks
+
+P: John Lackey
+
+P: Jon Lester
+
+P: Dillon Maples
+
+P: Mike Montgomery
+
+P: Felix Pena
+
+P: Jose Quintana
+
+P: Hector Rondon
+
+P: Pedro Strop
+
+P: Koji Uehara
+
+P: Justin Wilson
+
+P: Rob Zastryzny
+
+C: Alex Avila
+
+C: Victor Caratini
+
+C: Rene Rivera
+
+IF: Javier Baez
+
+IF: Kris Bryant
+
+IF: Mike Freeman
+
+IF: Tommy La Stella
+
+IF: Anthony Rizzo
+
+IF: Ben Zobrist
+
+OF: Albert Almora Jr.
+
+OF: Ian Happ
+
+OF: Jason Heyward
+
+OF: Jon Jay
+
+OF: Leonys Martin
+
+OF: Kyle Schwarber
+

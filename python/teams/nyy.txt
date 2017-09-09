@@ -1,0 +1,62 @@
+P: Dellin Betances
+
+P: Aroldis Chapman
+
+P: Giovanny Gallegos
+
+P: Jaime Garcia
+
+P: Sonny Gray
+
+P: Chad Green
+
+P: Ben Heller
+
+P: Tommy Kahnle
+
+P: Bryan Mitchell
+
+P: Jordan Montgomery
+
+P: David Robertson
+
+P: CC Sabathia
+
+P: Luis Severino
+
+P: Chasen Shreve
+
+P: Caleb Smith
+
+P: Masahiro Tanaka
+
+P: Adam Warren
+
+C: Erik Kratz
+
+C: Austin Romine
+
+C: Gary Sanchez
+
+IF: Greg Bird
+
+IF: Starlin Castro
+
+IF: Todd Frazier
+
+IF: Didi Gregorius
+
+IF: Chase Headley
+
+IF: Ronald Torreyes
+
+IF: Tyler Wade
+
+OF: Jacoby Ellsbury
+
+OF: Brett Gardner
+
+OF: Aaron Judge
+
+DH: Matt Holliday
+
