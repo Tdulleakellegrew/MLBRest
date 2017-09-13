@@ -453,6 +453,11 @@
 		},
 
 		{
+			"PlayerName" : "Phillip Evans",
+			"Position" :  "IF"
+		},
+
+		{
 			"PlayerName" : "Wilmer Flores",
 			"Position" :  "IF"
 		},
@@ -626,11 +631,6 @@
 		},
 
 		{
-			"PlayerName" : "Jefry Marte",
-			"Position" :  "IF"
-		},
-
-		{
 			"PlayerName" : "Cliff Pennington",
 			"Position" :  "IF"
 		},
@@ -657,6 +657,11 @@
 
 		{
 			"PlayerName" : "Ben Revere",
+			"Position" :  "OF"
+		},
+
+		{
+			"PlayerName" : "Shane Robinson",
 			"Position" :  "OF"
 		},
 
@@ -795,6 +800,11 @@
 
 		{
 			"PlayerName" : "Charlie Culberson",
+			"Position" :  "IF"
+		},
+
+		{
+			"PlayerName" : "Kyle Farmer",
 			"Position" :  "IF"
 		},
 
@@ -1228,6 +1238,11 @@
 		},
 
 		{
+			"PlayerName" : "Leonel Campos",
+			"Position" :  "P"
+		},
+
+		{
 			"PlayerName" : "Matt Dermody",
 			"Position" :  "P"
 		},
@@ -1496,6 +1511,11 @@
 		},
 
 		{
+			"PlayerName" : "J.J. Hardy",
+			"Position" :  "IF"
+		},
+
+		{
 			"PlayerName" : "Manny Machado",
 			"Position" :  "IF"
 		},
@@ -1707,6 +1727,11 @@
  	"col": {
  		"Players" : [
 		{
+			"PlayerName" : "Tyler Anderson",
+			"Position" :  "P"
+		},
+
+		{
 			"PlayerName" : "Chad Bettis",
 			"Position" :  "P"
 		},
@@ -1890,6 +1915,11 @@
 		},
 
 		{
+			"PlayerName" : "Michael Feliz",
+			"Position" :  "P"
+		},
+
+		{
 			"PlayerName" : "Mike Fiers",
 			"Position" :  "P"
 		},
@@ -1971,6 +2001,11 @@
 
 		{
 			"PlayerName" : "Juan Centeno",
+			"Position" :  "C"
+		},
+
+		{
+			"PlayerName" : "Evan Gattis",
 			"Position" :  "C"
 		},
 
@@ -2514,6 +2549,11 @@
 		},
 
 		{
+			"PlayerName" : "Justin Bour",
+			"Position" :  "IF"
+		},
+
+		{
 			"PlayerName" : "Derek Dietrich",
 			"Position" :  "IF"
 		},
@@ -2963,6 +3003,11 @@
 		},
 
 		{
+			"PlayerName" : "Tyler Flowers",
+			"Position" :  "C"
+		},
+
+		{
 			"PlayerName" : "David Freitas",
 			"Position" :  "C"
 		},
@@ -3141,6 +3186,11 @@
 		},
 
 		{
+			"PlayerName" : "Willson Contreras",
+			"Position" :  "C"
+		},
+
+		{
 			"PlayerName" : "Taylor Davis",
 			"Position" :  "C"
 		},
@@ -3214,6 +3264,11 @@
  	"cws": {
  		"Players" : [
 		{
+			"PlayerName" : "Al Alburquerque",
+			"Position" :  "P"
+		},
+
+		{
 			"PlayerName" : "Chris Beck",
 			"Position" :  "P"
 		},
@@ -3274,12 +3329,12 @@
 		},
 
 		{
-			"PlayerName" : "Carlos Rodon",
+			"PlayerName" : "James Shields",
 			"Position" :  "P"
 		},
 
 		{
-			"PlayerName" : "James Shields",
+			"PlayerName" : "Chris Volstad",
 			"Position" :  "P"
 		},
 
@@ -3478,6 +3533,11 @@
 
 		{
 			"PlayerName" : "Anthony Rendon",
+			"Position" :  "IF"
+		},
+
+		{
+			"PlayerName" : "Adrian Sanchez",
 			"Position" :  "IF"
 		},
 
@@ -3703,6 +3763,11 @@
  	"ari": {
  		"Players" : [
 		{
+			"PlayerName" : "Anthony Banda",
+			"Position" :  "P"
+		},
+
+		{
 			"PlayerName" : "Jake Barrett",
 			"Position" :  "P"
 		},
@@ -3823,6 +3888,16 @@
 		},
 
 		{
+			"PlayerName" : "Ildemaro Vargas",
+			"Position" :  "IF"
+		},
+
+		{
+			"PlayerName" : "Christian Walker",
+			"Position" :  "IF"
+		},
+
+		{
 			"PlayerName" : "Gregor Blanco",
 			"Position" :  "OF"
 		},
@@ -3834,6 +3909,11 @@
 
 		{
 			"PlayerName" : "Rey Fuentes",
+			"Position" :  "OF"
+		},
+
+		{
+			"PlayerName" : "Jeremy Hazelbaker",
 			"Position" :  "OF"
 		},
 
@@ -3867,6 +3947,11 @@
 
 		{
 			"PlayerName" : "Austin Bibens-Dirkx",
+			"Position" :  "P"
+		},
+
+		{
+			"PlayerName" : "Matt Bush",
 			"Position" :  "P"
 		},
 
@@ -4018,11 +4103,21 @@
 		{
 			"PlayerName" : "Drew Robinson",
 			"Position" :  "OF"
+		},
+
+		{
+			"PlayerName" : "Ryan Rua",
+			"Position" :  "OF"
 		}
 		]
 	},
  	"pit": {
  		"Players" : [
+		{
+			"PlayerName" : "Johnny Barbato",
+			"Position" :  "P"
+		},
+
 		{
 			"PlayerName" : "Joaquin Benoit",
 			"Position" :  "P"
@@ -4039,6 +4134,11 @@
 		},
 
 		{
+			"PlayerName" : "Tyler Glasnow",
+			"Position" :  "P"
+		},
+
+		{
 			"PlayerName" : "Daniel Hudson",
 			"Position" :  "P"
 		},
@@ -4050,6 +4150,11 @@
 
 		{
 			"PlayerName" : "Chad Kuhl",
+			"Position" :  "P"
+		},
+
+		{
+			"PlayerName" : "Jack Leathersich",
 			"Position" :  "P"
 		},
 
@@ -4074,7 +4179,17 @@
 		},
 
 		{
+			"PlayerName" : "Dan Runzler",
+			"Position" :  "P"
+		},
+
+		{
 			"PlayerName" : "Angel Sanchez",
+			"Position" :  "P"
+		},
+
+		{
+			"PlayerName" : "Edgar Santana",
 			"Position" :  "P"
 		},
 
@@ -4095,6 +4210,11 @@
 
 		{
 			"PlayerName" : "Elias Diaz",
+			"Position" :  "C"
+		},
+
+		{
+			"PlayerName" : "Jacob Stallings",
 			"Position" :  "C"
 		},
 
@@ -4129,6 +4249,11 @@
 		},
 
 		{
+			"PlayerName" : "Adam Frazier",
+			"Position" :  "OF"
+		},
+
+		{
 			"PlayerName" : "John Jaso",
 			"Position" :  "OF"
 		},
@@ -4150,6 +4275,11 @@
 
 		{
 			"PlayerName" : "Jose Osuna",
+			"Position" :  "OF"
+		},
+
+		{
+			"PlayerName" : "Gregory Polanco",
 			"Position" :  "OF"
 		},
 
