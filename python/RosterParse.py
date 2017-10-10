@@ -12,7 +12,7 @@ class RosterParse:
 		begin = b"<" + key
 		beginI = self.html.find(begin)
 		end = key + b">"
-		while counter < 5:					
+		while counter < 5:
 			endI = self.html.find(end, endI + len(str(key)))
 			counter = counter + 1
 		return self.grabPlayers(b"a", self.html[beginI:endI + len(end)])
@@ -24,7 +24,7 @@ class RosterParse:
 
 		#tells find what the beginning and end of the player looks like
 		begin = b"<" + key + b" "
-		end = key + b">" 
+		end = key + b">"
 
 		#find indexes in order to determine what  a player's position is
 		pitchI = parsedString.find(b"<h4>Pitchers</h4>")
@@ -43,6 +43,7 @@ class RosterParse:
 		team = Team.Team(self.teamN)
 		if dhI > -1:
 			while counter < 40 and newI > -1:
+				print(counter)
 				counter = counter + 1
 				beginI = parsedString.find(begin, endI)
 				endI = parsedString.find(end, beginI)
@@ -57,15 +58,17 @@ class RosterParse:
 				else:
 					position = "DH"
 				newI = parsedString.find(begin, endI)
-				p = Player.Player(self.cleanPlayer(str(parsedString[beginI:endI+len(end)])), position)
+				p = Player.Player(self.cleanPlayer(str(parsedString[beginI:endI+len(end)])), position, self.playerLink(str(parsedString[beginI:endI+len(end)])))
+				p.getDetails()
 				team.addPlayer(p)
 		else:
 			while counter < 40 and newI > -1:
+				print(counter)
 				counter = counter + 1
 				beginI = parsedString.find(begin, endI)
 				endI = parsedString.find(end, beginI)
 				if beginI < catchI:
-					position = "P" 
+					position = "P"
 				elif beginI < inI:
 					position = "C"
 				elif beginI < outI:
@@ -73,7 +76,8 @@ class RosterParse:
 				elif beginI > outI:
 					position = "OF"
 				newI = parsedString.find(begin, endI)
-				p = Player.Player(self.cleanPlayer(str(parsedString[beginI:endI+len(end)])), position)
+				p = Player.Player(self.cleanPlayer(str(parsedString[beginI:endI+len(end)])), position, self.playerLink(str(parsedString[beginI:endI+len(end)])))
+				p.getDetails()
 				team.addPlayer(p)
 				#newString = newString + position + self.cleanPlayer(str(parsedString[beginI:endI+len(end)])) + "\r\n"
 		return team
@@ -92,5 +96,15 @@ class RosterParse:
 		cleanedPlayer = str(players[beginI + 1:endI]).replace('''\'''', "") + ""
 		return cleanedPlayer
 
-
-
+	def playerLink(self, players):
+		counter = 0
+		openEnd = '''"'''
+		endTag = '''"'''
+		beginI = 0
+		endI = 0
+		link = ""
+		counter = counter + 1
+		beginI = players.find(openEnd, 0)
+		endI = players.find(endTag, beginI + 1)
+		link = str(players[beginI + 1:endI]).replace('''\'''', "") + ""
+		return link
