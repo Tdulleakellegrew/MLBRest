@@ -24,9 +24,13 @@ module.exports = {
     return player;
   },
 
-  genLeague: function (teams){
-    league = {};
-    league.teams = teams;
+  genLeague: function (){
+    league = {
+      teams : [],
+      addTeam : function(team){
+        this.teams.push(team);
+      }
+    };
     return league;
   },
 

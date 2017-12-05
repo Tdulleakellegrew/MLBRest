@@ -1,6 +1,6 @@
 {
   "name": "mlbrestserver",
-  "version": "1.0.0",
+  "version": "1.8.0",
   "description": "returns mlb team rosters with player names and positions",
   "main": "index.js",
   "scripts": {

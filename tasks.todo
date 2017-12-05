@@ -1,0 +1,11 @@
+Tasks:
+    Current Tasks:
+        ☐ Add registration and login @high same here
+        ☐ Add individual app keys @high needs to be done before going live
+        ☐ Add Search @low 
+        ☐ Re-run scrape - Do after all games are over @today 
+        ✔ Add site navigation @done (10/11/2017, 6:05:16 PM) 
+        ✔ Add api calls that are seperate to main site @done (10/11/2017, 6:02:31 PM)
+        ☐ Add team position call @low 
+        ✔ Create api docs @done (10/11/2017, 6:02:57 PM)
+        ✔ Add error handling @done (10/11/2017, 8:46:52 PM)
